@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
             public void onFailure(Call<List<WeatherResult>> call, Throwable t) {
 
 
-
             }
         });
 
